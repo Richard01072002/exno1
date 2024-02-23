@@ -230,8 +230,5 @@ df
 <tr>
   <td width=50%>
 
-### 14)Cut and paste portion of image
-```Python
-```
 # Result
-          <<include your Result here>>
+    <<include your Result here>>
