@@ -23,8 +23,8 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 ```
-### Developed By: AARON I
-### Register Number: 212223230002
+### Developed By: RICHARDSON A
+### Register Number: 212222233005
 ```
 
 ### 1) Read and display DataFrame
