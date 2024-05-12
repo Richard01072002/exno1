@@ -1,5 +1,4 @@
-# Exno:1
-Data Cleaning Process
+# Exno:1 Data Cleaning Process
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
@@ -23,8 +22,8 @@ STEP 6: Use zscore of to remove outliers
 # Coding and Output
 
 ```
-### Developed By: RICHARDSON A
-### Register Number: 212222233005
+Developed By: RICHARDSON A
+Register Number: 212222233005
 ```
 
 ### 1) Read and display DataFrame
